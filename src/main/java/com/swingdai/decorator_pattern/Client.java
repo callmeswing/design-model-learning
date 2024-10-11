@@ -10,7 +10,7 @@ package com.swingdai.decorator_pattern;
  *      意图：
  *      动态的为类添加功能
  *
- *      类图阐述： 有点套娃的意思
+ *      类图解析： 有点套娃的意思
  *      接口Component
  *      具体组件ConcreteComponent、装饰器Decorator 均继承自组件
  *      具体组件不依赖其他对象 处于装饰链的最底层
